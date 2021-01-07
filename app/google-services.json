@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726084730940",
+    "project_id": "proyecto-moviles-dcd66",
+    "storage_bucket": "proyecto-moviles-dcd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726084730940:android:5ec07e6167c9cd4535c339",
+        "android_client_info": {
+          "package_name": "com.desap.proyecto_anoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726084730940-qb04sa77c9j80p3l8fo257th8m4gn4cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08V8Y5OVyKcvNVQl91SpsuqNdP-OHqIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726084730940-qb04sa77c9j80p3l8fo257th8m4gn4cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
